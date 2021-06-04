@@ -1,0 +1,8 @@
+
+for app.py file run
+
+export flask_app=app.py
+
+flask run 
+
+python3 app.py
