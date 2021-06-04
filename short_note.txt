@@ -6,3 +6,5 @@ export flask_app=app.py
 flask run 
 
 python3 app.py
+
+pip install flask-restful
